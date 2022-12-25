@@ -4,9 +4,9 @@ import { fileURLToPath } from 'url'
 import fs from 'fs'
 
 global.owner = [
-  ['573138952339', 'Unptoadrih15', true],
-  ['34642467703'],
-  ['79910189842']
+  ['201098906252', 'Unptoadrih15', true],
+  ['201098906252'],
+  ['201098906252']
 ] // Cambia los numero que quieras
 global.mods = [] 
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
@@ -61,12 +61,12 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = ''
-global.author = '𝖀𝖓𝕻𝖙𝖔𝕬𝖉𝖗𝖎𝖍𝕭𝖔𝖙'
+global.packname = '⍣الجزار الوزير يروحي⍣'
+global.author = '⍣01098906252⍣'
 
-global.wm = '𝖀𝖓𝕻𝖙𝖔𝕬𝖉𝖗𝖎𝖍𝕭𝖔𝖙'
-global.igfg = '𝖀𝖓𝕻𝖙𝖔𝕬𝖉𝖗𝖎𝖍𝕭𝖔𝖙'
-global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
+global.wm = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤'
+global.igfg = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤'
+global.wait = '*⌛ _انتظر لحظه..._ ▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
 
